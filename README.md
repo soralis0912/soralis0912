@@ -12,6 +12,9 @@
   </a>
 </p>
 
+![soralis0912's GitHub stats](https://github-readme-stats.vercel.app/api?username=soralis0912&show_icons=true)
+
+
 now contributing
 
 [Mi11lite 5G Felica Module](https://github.com/soralis0912/magisk-module-renoir-jp-felica)
