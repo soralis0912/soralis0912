@@ -27,7 +27,7 @@ now contributing
 
 [Xperia 1  & 5  ROMs for JP](https://github.com/Sony-kumano-development/)
 
-not yet
-
 [Mi11lite 5G ROMs for JP](https://github.com/xiaomi-renoir-development/)
+
+
 
