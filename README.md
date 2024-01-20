@@ -21,6 +21,8 @@ now contributing
 
 [Xiaomi 12T Pro Felica Module](https://github.com/soralis0912/magisk-module-diting-jp-felica)
 
+[Xiaomi 11T Pro Felica Module](https://github.com/soralis0912/magisk-module-vili-jp-felica)
+
 [Mi11lite 5G Felica Module](https://github.com/soralis0912/magisk-module-renoir-jp-felica)
 
 [Redmi note 11 Pro 5G Felica Module](https://github.com/soralis0912/magisk-module-veux-jp-felica)
