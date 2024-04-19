@@ -29,7 +29,7 @@ now contributing
 
 [Redmi note 9T 5G Felica Module](https://github.com/soralis0912/magisk-module-canong-jp-felica)
 
-[Xperia 1 Ⅱ & 5 Ⅱ ROMs for JP](https://github.com/Sony-edo-development/)
+[Xperia 1 Ⅱ & 5 Ⅱ ROMs for JP](https://github.com/Sony-edo-felica-development/)
 
 [Xperia 1  & 5  ROMs for JP](https://github.com/Sony-kumano-development/)
 
