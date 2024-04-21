@@ -45,7 +45,7 @@
 ## ROMS
 [Xperia 1 Ⅱ & 5 Ⅱ ROMs for JP](https://github.com/Sony-edo-felica-development/)
 
-[Xperia 1  & 5  ROMs for JP](https://github.com/Sony-kumano-development/)
+[Xperia 1  & 5  ROM](https://github.com/Sony-kumano-development/)
 
 [Mi11lite 5G ROMs for JP](https://github.com/xiaomi-renoir-felica-development/)
 
