@@ -41,6 +41,9 @@
 
 [Redmi note 9T 5G Felica Module](https://github.com/soralis0912/magisk-module-canong-jp-felica)
 
+## Other Modules
+
+[MPA Bypass](https://github.com/soralis0912/mpa-bypass)
 
 ## ROMS
 [Xperia 1 Ⅱ & 5 Ⅱ ROMs for JP](https://github.com/Sony-edo-felica-development/)
