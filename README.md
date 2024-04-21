@@ -15,7 +15,19 @@
 ![soralis0912's GitHub stats](https://github-readme-stats.vercel.app/api?username=soralis0912&show_icons=true)
 
 
-now contributing
+
+## Camera Modules
+
+[Xiaomi Camera Module for JP](https://github.com/soralis0912/xiaomi-camera-mod)
+
+[Xiaomi 13T Pro Lxxca Module](https://github.com/soralis0912/corot-lxxca-enabler)
+
+[Xiaomi 13T Lxxca Module](https://github.com/soralis0912/XIG04-lxxca-enabler)
+
+
+## Felica Modules
+
+[Xiaomi Redmi 12 5G Felica Module](https://github.com/soralis0912/xiaomi-camera-mod)
 
 [Xiaomi 13T Pro Felica Module](https://github.com/soralis0912/magisk-module-corot-jp-felica)
 
@@ -29,6 +41,8 @@ now contributing
 
 [Redmi note 9T 5G Felica Module](https://github.com/soralis0912/magisk-module-canong-jp-felica)
 
+
+## ROMS
 [Xperia 1 Ⅱ & 5 Ⅱ ROMs for JP](https://github.com/Sony-edo-felica-development/)
 
 [Xperia 1  & 5  ROMs for JP](https://github.com/Sony-kumano-development/)
