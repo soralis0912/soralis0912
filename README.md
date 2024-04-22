@@ -27,7 +27,7 @@
 
 ## Felica Modules
 
-[Xiaomi Redmi 12 5G Felica Module](https://github.com/soralis0912/xiaomi-camera-mod)
+[Xiaomi Redmi 12 5G Felica Module](https://github.com/soralis0912/magisk-module-sky-jp-felica)
 
 [Xiaomi 13T Pro Felica Module](https://github.com/soralis0912/magisk-module-corot-jp-felica)
 
