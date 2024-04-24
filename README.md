@@ -14,6 +14,8 @@
 
 ![soralis0912's GitHub stats](https://github-readme-stats.vercel.app/api?username=soralis0912&show_icons=true)
 
+## Special Thanks
+[はしまんX](https://github.com/bakunetsuuuuu) Xiaomi 13T
 ## Projects
 [kiso-dev](https://sourceforge.net/projects/kiso-dev/)
 
