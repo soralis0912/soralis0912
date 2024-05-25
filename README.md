@@ -48,6 +48,8 @@
 
 [MPA Bypass](https://github.com/soralis0912/mpa-bypass)
 
+[add eSIM switch](https://github.com/soralis0912/esimdisabler/)
+
 ## ROMS
 [Xperia 1 Ⅱ & 5 Ⅱ ROMs for JP](https://github.com/Sony-edo-felica-development/)
 
