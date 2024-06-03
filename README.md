@@ -15,7 +15,9 @@
 ![soralis0912's GitHub stats](https://github-readme-stats.vercel.app/api?username=soralis0912&show_icons=true)
 
 ## Special Thanks
+
 [はしまんX](https://github.com/bakunetsuuuuu) Xiaomi 13T
+
 ## Projects
 
 [felica droid](https://github.com/felica-droid)
@@ -35,7 +37,7 @@
 
 [Xiaomi Redmi note 13 Pro+ 5G](https://github.com/soralis0912/magisk-module-zircon-jp-felica)
 
-[Xiaomi Redmi note 13 Pro 5G](https://github.com/soralis0912/magisk-module-XIG05-jp-felica
+[Xiaomi Redmi note 13 Pro 5G](https://github.com/soralis0912/magisk-module-XIG05-jp-felica)
 
 [Xiaomi Redmi 12 5G Felica Module](https://github.com/soralis0912/magisk-module-sky-jp-felica)
 
