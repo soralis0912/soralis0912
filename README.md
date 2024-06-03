@@ -17,6 +17,9 @@
 ## Special Thanks
 [はしまんX](https://github.com/bakunetsuuuuu) Xiaomi 13T
 ## Projects
+
+[felica droid](https://github.com/felica-droid)
+
 [kiso-dev](https://sourceforge.net/projects/kiso-dev/)
 
 ## Camera Modules
@@ -29,6 +32,10 @@
 
 
 ## Felica Modules
+
+[Xiaomi Redmi note 13 Pro+ 5G](https://github.com/soralis0912/magisk-module-zircon-jp-felica)
+
+[Xiaomi Redmi note 13 Pro 5G](https://github.com/soralis0912/magisk-module-XIG05-jp-felica
 
 [Xiaomi Redmi 12 5G Felica Module](https://github.com/soralis0912/magisk-module-sky-jp-felica)
 
