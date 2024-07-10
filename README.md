@@ -33,7 +33,7 @@
 [Xiaomi 13T Lxxca Module](https://github.com/soralis0912/XIG04-lxxca-enabler)
 
 
-## Felica Modules
+## Felica Modules (NqNFC)
 
 [Xiaomi Redmi note 13 Pro+ 5G](https://github.com/soralis0912/magisk-module-zircon-jp-felica)
 
@@ -53,6 +53,9 @@
 
 [Redmi note 9T 5G Felica Module](https://github.com/soralis0912/magisk-module-canong-jp-felica)
 
+## Felica Modules (NfcNci)
+
+[Redmi note 9T 5G Felica Module](https://github.com/soralis0912/magisk-module-canong-jp-felica-aosp)
 ## Other Modules
 
 [MPA Bypass](https://github.com/soralis0912/mpa-bypass)
