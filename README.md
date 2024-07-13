@@ -55,7 +55,10 @@
 
 ## Felica Modules (NfcNci)
 
+[Mi11lite 5G Felica Module](https://github.com/soralis0912/magisk-module-renoir-jp-felica-aosp)
+
 [Redmi note 9T 5G Felica Module](https://github.com/soralis0912/magisk-module-canong-jp-felica-aosp)
+
 ## Other Modules
 
 [MPA Bypass](https://github.com/soralis0912/mpa-bypass)
