@@ -39,25 +39,25 @@
 
 [Xiaomi Redmi note 13 Pro 5G](https://github.com/soralis0912/magisk-module-XIG05-jp-felica)
 
-[Xiaomi Redmi 12 5G Felica Module](https://github.com/soralis0912/magisk-module-sky-jp-felica)
+[Xiaomi Redmi 12 5G](https://github.com/soralis0912/magisk-module-sky-jp-felica)
 
-[Xiaomi 13T Pro Felica Module](https://github.com/soralis0912/magisk-module-corot-jp-felica)
+[Xiaomi 13T Pro](https://github.com/soralis0912/magisk-module-corot-jp-felica)
 
-[Xiaomi 12T Pro Felica Module](https://github.com/soralis0912/magisk-module-diting-jp-felica)
+[Xiaomi 12T Pro](https://github.com/soralis0912/magisk-module-diting-jp-felica)
 
-[Xiaomi 11T Pro Felica Module](https://github.com/soralis0912/magisk-module-vili-jp-felica)
+[Xiaomi 11T Pro](https://github.com/soralis0912/magisk-module-vili-jp-felica)
 
-[Mi11lite 5G Felica Module](https://github.com/soralis0912/magisk-module-renoir-jp-felica)
+[Mi11lite 5G](https://github.com/soralis0912/magisk-module-renoir-jp-felica)
 
-[Redmi note 11 Pro 5G Felica Module](https://github.com/soralis0912/magisk-module-veux-jp-felica)
+[Redmi note 11 Pro 5G](https://github.com/soralis0912/magisk-module-veux-jp-felica)
 
-[Redmi note 9T 5G Felica Module](https://github.com/soralis0912/magisk-module-canong-jp-felica)
+[Redmi note 9T 5G](https://github.com/soralis0912/magisk-module-canong-jp-felica)
 
 ## Felica Modules (NfcNci)
 
-[Mi11lite 5G Felica Module](https://github.com/soralis0912/magisk-module-renoir-jp-felica-aosp)
+[Mi11lite 5G](https://github.com/soralis0912/magisk-module-renoir-jp-felica-aosp)
 
-[Redmi note 9T 5G Felica Module](https://github.com/soralis0912/magisk-module-canong-jp-felica-aosp)
+[Redmi note 9T 5G](https://github.com/soralis0912/magisk-module-canong-jp-felica-aosp)
 
 ## Other Modules
 
