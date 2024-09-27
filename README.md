@@ -45,6 +45,8 @@
 
 [Xiaomi 12T Pro](https://github.com/soralis0912/magisk-module-diting-jp-felica)
 
+[Xiaomi 12T Pro SB](https://github.com/soralis0912/magisk-module-A201XM-jp-felica)
+
 [Xiaomi 11T Pro](https://github.com/soralis0912/magisk-module-vili-jp-felica)
 
 [Mi11lite 5G](https://github.com/soralis0912/magisk-module-renoir-jp-felica)
