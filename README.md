@@ -67,6 +67,10 @@
 
 [add eSIM switch](https://github.com/soralis0912/esimdisabler/)
 
+## Other Software
+
+[LenovoRsaLogDecrypt]([https://github.com/soralis0912/esimdisabler/](https://github.com/soralis0912/LenovoRsaLogDecrypt))
+
 ## ROMS
 [Xperia 1 Ⅱ & 5 Ⅱ ROMs for JP](https://github.com/Sony-edo-felica-development/)
 
