@@ -22,7 +22,7 @@
 
 [felica droid](https://github.com/felica-droid)
 
-[kiso-dev](https://sourceforge.net/projects/kiso-dev/)
+[kiso-dev](https://github.com/kisodev)
 
 ## Camera Modules
 
