@@ -12,10 +12,12 @@
   </a>
 </p>
 
-## memo
-[android release key](https://gist.github.com/soralis0912/fd6979c0a2a950ba8c7e7441bcb8b16e)
-
 ![soralis0912's GitHub stats](https://github-readme-stats.vercel.app/api?username=soralis0912&show_icons=true)
+
+
+## memo
+
+[android release key](https://gist.github.com/soralis0912/fd6979c0a2a950ba8c7e7441bcb8b16e)
 
 ## Special Thanks
 
