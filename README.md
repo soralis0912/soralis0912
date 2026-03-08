@@ -37,6 +37,8 @@
 
 [Xiaomi 13T Lxxca Module](https://github.com/soralis0912/XIG04-lxxca-enabler)
 
+[Xiaomi 17 Ultra Module](https://github.com/soralis0912/magisk-module-nezha-lxxca)
+
 
 ## Felica Modules (NqNFC)
 
@@ -72,16 +74,12 @@
 
 [add eSIM switch](https://github.com/soralis0912/esimdisabler/)
 
+[OMAPI PolicyHook](https://github.com/soralis0912/OMAPI-PolicyHook)
+
 ## Other Software
 
 [LenovoRsaLogDecrypt](https://github.com/soralis0912/LenovoRsaLogDecrypt)
 
-## ROMS
-[Xperia 1 Ⅱ & 5 Ⅱ ROMs for JP](https://github.com/Sony-edo-felica-development/)
-
-[Xperia 1  & 5  ROM](https://github.com/Sony-kumano-development/)
-
-[Mi11lite 5G ROMs for JP](https://github.com/xiaomi-renoir-felica-development/)
 
 
 
